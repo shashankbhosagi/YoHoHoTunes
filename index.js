@@ -2,7 +2,7 @@ const express = require("express");
 const fetch = require("node-fetch");
 require("dotenv").config();
 
-//create express server
+//create express serve
 const app = express();
 
 //port of server
